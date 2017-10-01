@@ -11,7 +11,9 @@ Ccutccopyppaste is a toolkit that brings ctrl-x/c/v functionality to the command
 ## Usage
 
 Cut files ("ctrl-x"): `ccut <file> [more files...]`
+
 Copy files ("ctrl-c"): `ccopy <file> [more files...]`
+
 Paste files ("ctrl-v") that were "ccut" or "ccopied": `ppaste`
 
 
@@ -22,7 +24,7 @@ Ccutccopyppaste stores its "clipboard" in a buffer file. The `-l` option for any
 
 ## Running the tests
 
-Ccutccopyppaste comes with a test suite that hopefully covers most of the functions. Simply run the `test_suite.sh`. If any test fails, please open an issue!
+Ccutccopyppaste comes with a test suite that hopefully covers most of the functions. Simply run `test_suite.sh`. If any test fails, please open an issue!
 
 
 ## License
