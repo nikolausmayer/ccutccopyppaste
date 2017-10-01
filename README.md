@@ -5,6 +5,9 @@ Ccutccopyppaste is a toolkit that brings ctrl-x/c/v functionality to the command
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 
+**THIS SOFTWARE IS NOT IN A PRODUCTION-READY STATE. USE AT OWN RISK.**
+
+
 ## Usage
 
 Cut files ("ctrl-x"): `ccut <file> [more files...]`
