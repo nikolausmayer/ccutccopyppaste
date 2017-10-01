@@ -1,0 +1,6 @@
+#!/bin/bash
+
+C4P2DIR=`dirname "${0}"`;
+C4P2DIR=`cd "${C4P2DIR}" && pwd`;
+"${C4P2DIR}/ccutccopyppaste.sh" -x $@;
+
